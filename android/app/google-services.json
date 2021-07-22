@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "957416691814",
+    "firebase_url": "https://api-mds.firebaseio.com",
+    "project_id": "api-mds",
+    "storage_bucket": "api-mds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957416691814:android:f26c7f0a37801bc5",
+        "android_client_info": {
+          "package_name": "mds.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957416691814-uihd6uei8j93nhrkk5na4qoivuklik59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8gAFXT85YZ1Y_wplS0z6ddNrcSA1E6JM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "MDS App",
+   "icon": "src/assets/img/question.png",
+   "version": "2.0.0",
+   "slug": "app",
+   "ios": {
+     "bundleIdentifier": "com.mdsapp.mdsapp",
+     "buildNumber": "2.0.0"
+   },
+   "android": {
+     "package": "com.mdsapp.mdsapp",
+     "versionCode": 2
+   }
+  }
+}
